@@ -1,3 +1,2 @@
-# Olá, mundo!
+#Pequenos projetos em Python!
 Primeiro repositório
-Meu primeiro repositório!!
