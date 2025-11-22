@@ -1,0 +1,5 @@
+nome = str(input('Digite o seu nome completo: '))
+maiusculo = nome.upper()
+minusculo = nome.lower()
+print(f'Nome em maiusculo: {maiusculo}')
+print(f'Nome em minusculo: {minusculo}')
